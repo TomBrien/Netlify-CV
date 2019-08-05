@@ -1,29 +1,30 @@
-url: http://streetturtle.github.io
+url: http://tombrien.io
 projectUrl: jekyl-cv-crafter
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
-  citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
-  linkedin: /streetturtle
+  name: Dr Tom Brien
+  depiction: Avatar.jpg
+  profession: Scientist - Astronomical Instrumentation
+  location: Cardiff
+  citizenship: UK
+  email: tom@tombrien.io
+  site: https://tombrien.io
+  phone:
+  github: /tombrien
+  stackoverflow: /tom-brien
+  linkedin:
 
 career:
- - position: Foot Clan Antagonist
-   company: TMNT inc.
-   location: New York, USA
-   dates: September 2014 - current
-   summary: Physically the smallest of the Turtles and the least mature. Mikey is easily distracted and enthusiastic about... well, pretty much everything. He's also extremely creative. He has a thousand ideas, and every now and then, one of them will be brilliant. This combination of creativity and lack of focus gives him a kind of flow that the other Turtles cannot match. He's a social mutant and more than the others, pines to be part of the real world.
+ - position: Post Doctoral Research Associate
+   company: Cardiff University
+   location: Cardiff, UK
+   dates: September 2015 - present
+   summary: Astronomical Instrumentation Group
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
+    - accomplishment: Cryogenics and integration lead on the Mexico UK Sub-mm Camera for Astronomy (MUSCAT). A 1.1-mm instrument for the large millimeter telescope in Pubela Mexico.
+    - accomplishment: Developing Kinetic Inductance Detectors for astronomical applications.
+    - accomplishment: Characterising low dark current mercury cadmium telluride detectors for astronomical applications.
  - position: Shredder enemy
    company: TMNT
    location: New York, USA
@@ -42,19 +43,21 @@ technicalSkills:
     - tr: "First of the turtles to taste pizza"
     - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
+   - name: Python
+     level: 70
+   - name: MatLAB
+     level: 50
+   - name: LabView
+     level: 75
   frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
+   - name: LaTeX
      level: 90
   other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
+   - name: Cryogenics
+     level: 100
+   - name: Microsoft Office
+     level: 80
+   - name: GitHub
      level: 100
 
 sideProjects:
