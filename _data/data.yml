@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Tom Brien
-    tagline: Full Stack Developer
+    tagline: scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: tom@tombrien.io
+    phone:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin:
+    github: tombrien
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@tbrien88'
+    stack-overflow: tom-brien
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -28,11 +28,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
