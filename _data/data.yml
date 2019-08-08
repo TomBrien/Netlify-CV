@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dr Tom Brien
+    name: Tom Brien
     tagline: Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tom@tombrien.io
     phone:
-    website: blog.webjeda.com #do not add http://
+    website: tombrien.io #do not add http://
     linkedin:
     github: tombrien
     gitlab:
@@ -172,23 +172,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 65%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: LabView
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: LaTeX
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: MatLab
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
