@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Tom Brien
@@ -41,6 +41,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      I gained my PhD under the supervision of Prof. Philip Mauskopf studying
+      the cold-electron bolometer, studying its potential as an ultra-fast and
+      sensitive detector for millimetre-wave astronomy. Since then I have held
+      post doctroal positions with Prof. Peter Ade developing a testbed for
+      next-genration mercury cadmium telluride detectors (this testbed designed
+      has since been adopted by the Eurpean Space Agency) and Dr Simon Doyle
+      developing kinetic-inductance detectors and cryogenics for millimetre-wave
+      astronomy.
 
 
 education:
