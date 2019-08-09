@@ -70,23 +70,14 @@ education:
         and cold-electorn boloemters.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Cryogenic & Integration Lead
+      time: 2017 - Present
+      company: Mexico-UK Sub-mm Camera for Astronomy (MUSCAT)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
+        Developed novel He3-light cooling system providing continous cooling
+        of a 100-mK detector stage using a total of less the 10 L<sub>STP<\sub>
+        of helium-3. MUSCAt represents the first on-sky demonstration of passively
+        switch soprtion refrigerators and miniature dilution refrigeration.
 
 projects:
     title: Projects
