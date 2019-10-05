@@ -124,16 +124,22 @@ publications:
 
     papers:
       - title: A continuous 100-mK helium-light cooling system for MUSCAT on the LMT
+        authors: Brien et al.
         conference: Journal of Low Temperature Physics, 2018
       - title: MUSCAT: The Mexico-UK Sub-Millimetre Camera for AsTronomy
+        authors: Brien et al.
         conference: SPIE, 2018
       - title: A cryogenic testbed for the characterisation of large detector arrays for astronomical and Earth-observing applications in the near to very-long-wavelength infrared
+        authors: Brien et al.
         conference: SPIE, 2016
       - title: Optical response of strained-and unstrained-silicon cold-electron bolometers
+        authors: Brien et al.
         conference: Journal of Low Temperature Physics, 2016
       - title: Optical characterisation of a strained-silicon cold-electron bolometer at 160 GHz
+        authors: Brien et al.
         conference: 8th UK, Europe, China Millimeter Waves and THz Technology Workshop (UCMMT), 2015
       - title: A strained silicon cold electron bolometer using Schottky contacts
+        authors: Brien et al.
         conference: Applied Physics Letters, 2014
 
 skills:
