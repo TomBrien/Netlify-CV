@@ -114,29 +114,27 @@ projects:
         link: "home-assistant.io"
         tagline: "Open source home automation. Collaborator on official iOS app."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A full publication list can be found on my
+      [Google Scholar profile](https://scholar.google.com/citations?user=vGJ6UK8AAAAJ&hl=en). A selection of my first-author papers is below.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A continuous 100-mK helium-light cooling system for MUSCAT on the LMT
+        conference: Journal of Low Temperature Physics, 2018
+      - title: MUSCAT: The Mexico-UK Sub-Millimetre Camera for AsTronomy
+        conference: SPIE, 2018
+      - title: A cryogenic testbed for the characterisation of large detector arrays for astronomical and Earth-observing applications in the near to very-long-wavelength infrared
+        conference: SPIE, 2016
+      - title: Optical response of strained-and unstrained-silicon cold-electron bolometers
+        conference: Journal of Low Temperature Physics, 2016
+      - title: Optical characterisation of a strained-silicon cold-electron bolometer at 160 GHz
+        conference: 8th UK, Europe, China Millimeter Waves and THz Technology Workshop (UCMMT), 2015
+      - title: A strained silicon cold electron bolometer using Schottky contacts
+        conference: Applied Physics Letters, 2014
 
 skills:
     title: Skills &amp; Proficiency
