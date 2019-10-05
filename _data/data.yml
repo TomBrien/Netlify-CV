@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tom@tombrien.io
+    email: '&#116;&#111;&#109;&#64;&#116;&#111;&#109;&#98;&#114;&#105;&#101;&#110;&#46;&#105;&#111;'
     phone:
     website: tombrien.io #do not add http://
     linkedin:
@@ -20,7 +20,8 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@tbrien88'
-    stack-overflow: tom-brien
+    stack-overflow-id: 3466282
+    stack-overflow-name: tom-brien
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -75,33 +76,43 @@ experiences:
       company: Mexico-UK Sub-mm Camera for Astronomy (MUSCAT)
       details: |
         Developed novel He3-light cooling system providing continous cooling
-        of a 100-mK detector stage using a total of less the 10 L<sub>STP<\sub>
+        of a 100-mK detector stage using a total of less the 10 L<sub>STP</sub>
         of helium-3. MUSCAT represents the first on-sky demonstration of passively
         switch soprtion refrigerators and miniature dilution refrigeration.
+
+    - role: Testbed Development & Commissioning Lead
+      time: 2015 - 2017
+      company: "ESA TRP: Development of Low Dark Current
+      MWIR/LWIR Detectors"
+      details: |
+        Developed a multi-banded cryogenic testbed for the study of a ultra-low
+        dark current MCT detectors for astronomical applications in exoplanet
+        science. The design concept of this testbed has since been reproduced
+        and apoted by the European Space Agency.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In addition to my key roles, I am involved in several other projects and
+      organisations both within academia and in my personal life.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: TiN LEKID Development
+        tagline: "Carrying out testing and characterisation of
+        high-<i>T</i><sub>c</sub> LEKIDs fabricated from titanium nitride"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Miniature dilution refrigerators
+        tagline: "Small dilution refrigerators capable of achiving temperatures
+        below 100 mK with cooling power of 5 μW"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Fencing Competition Organisation
+        tagline: "Running and organising several competitions each year
+        including the Welsh Open, largest annual competition in the UK with over
+        500 competitors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Home Assistant
+        link: "home-assistant.io"
+        tagline: "Open source home automation. Collaborator on official iOS app."
 
       - title: Delta
         link: "#"
@@ -131,6 +142,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Cryogenic cooling
+        level: 95%
       - name: Python
         level: 65%
 
